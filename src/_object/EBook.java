@@ -20,7 +20,6 @@ public class EBook {
     @Override
     public boolean equals(Object obj) {
         if (this.title.equals(title))
-
         return super.equals(obj);
         return false;
     }
